@@ -10,7 +10,7 @@ Motivation
 
 At the core of this research lies the imperative motivation to safeguard creditors' loan portfolios against potential risks and financial losses. The lending sector operates within a volatile environment, where unforeseen credit events can result in significant fiscal repercussions. By embracing proactive risk management practices, creditors can curtail loan defaults, optimize the loan origination process, and secure their long-term financial viability.
 
-Project Targets
+Project Target
 
 While it's also useful to predict individuals who won't default (i.e., predicting good borrowers), the consequences of failing to predict loan defaults can be more damaging to the startup's financial health and reputation. As a result, the focus is typically on developing models that are adept at identifying high-risk borrowers to ensure the company's long-term success and stability.
 
