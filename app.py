@@ -7,9 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/156oKY30tbigo45YI-dgwmk9fy3q4vXLM
 """
 
-pip install streamlit
-
-!pip install pyngrok
 
 import pickle
 from pyngrok import ngrok
